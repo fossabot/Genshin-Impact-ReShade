@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\Default.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Errors\ErrorOccurred.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Errors\NotCompatible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Errors\RussianCunt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Gameplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Links.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Other\InjectionMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Other\Language.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Other\RandomImages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Other\SupportMe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Other\WebView2Shake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Other\WebView2Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Tools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
